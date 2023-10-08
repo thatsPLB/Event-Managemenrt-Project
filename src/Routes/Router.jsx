@@ -6,12 +6,15 @@ import Contact from "../Pages/Shared/Contact/Contact";
 import About from "../Pages/Shared/About/About";
 import Register from "../Pages/Register/Register";
 import Details from "../Pages/Details/Details";
+import NotFound from "../Pages/NotFound";
+import PrivateRoutes from "./PrivateRoutes";
 
 
 const router = createBrowserRouter([
     {
       path: "/",
       element: <Root></Root>,
+      errorElement: <NotFound></NotFound>,
       children: [
         {
           path: '/',
@@ -20,7 +23,8 @@ const router = createBrowserRouter([
         },
         {
           path: '/service/:id',
-          element: <Details></Details>
+          element: <PrivateRoutes><Details></Details></PrivateRoutes>,
+          loader: ()=> fetch('/data.json')
         },
         {
           path:'/login',

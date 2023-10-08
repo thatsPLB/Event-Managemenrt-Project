@@ -1,48 +1,48 @@
 [
     {
-    "id": "wedding123",
+    "id": "wedding",
     "image": "https://i.ibb.co/f2B6Nnq/wedding.jpg",
     "title": "Elegant Garden Wedding",
-    "description": "Love is in the air, and hearts are entwined as two souls come together to celebrate their lifelong journey. Join us in the enchanting embrace of romance and commitment as [Couple's Names] exchange vows in a ceremony that promises to be as timeless as their love. From the delicate lace of the bride's gown to the harmonious notes of music in the air, every detail has been carefully woven to create a day filled with love, joy, and cherished memories. As family and friends gather to witness this union, we invite you to be part of a day that celebrates the magic of love—a day where two lives become one, and a new chapter begins. Join us in celebrating the beginning of [Couple's Names] forever together, where love is the key that unlocks the door to their happily ever after.",
+    "description": "Love is in the air, and hearts are entwined as two souls come together to celebrate their lifelong journey.",
     "price": "$10,000"
   },
   
   {
-    "id": "birthday456",
+    "id": "birthday",
     "image": "https://i.ibb.co/nzTsnkp/birthday.jpg",
     "title": "Sarah's 30th Birthday Bash",
-    "description": "Birthdays are the annual markers of our journey through life, each one a reminder of the incredible journey we've undertaken since our very first breath. They are a celebration of the unique individuality that each of us brings to the world. On this day, we gather with friends and family to honor the person whose existence has enriched our lives in countless ways.It's a time for laughter, for making wishes, and for indulging in sweet treats topped with flickering candles. We exchange gifts, not only to express our affection but also to symbolize the gift of another year of life. As the cake is cut and shared, we reflect on the past year's experiences and look ahead to new adventures, challenges, and triumphs.But birthdays are more than just cake and presents; they are a chance to express love and gratitude to the person celebrating their special day. It's a day when age is just a number, and the focus shifts to the remarkable stories, memories, and dreams that continue to shape our lives.",
+    "description": "Birthdays are the annual markers of our journey through life, each one a reminder of the incredible journey together.",
     "price": "$500"
   },
   
   {
-    "id": "anniversary789",
+    "id": "anniversary",
     "image": "https://i.ibb.co/vZCL26B/gs.webp",
     "title": "25th Anniversary Celebration",
-    "description": "Anniversaries serve as timeless markers in our lives, reminding us of cherished moments, relationships, and achievements. Whether it's a wedding anniversary, marking the years of love and commitment between two individuals, or a business anniversary, celebrating years of hard work and success, these occasions are a testament to the enduring nature of our connections and endeavors.Anniversaries provide an opportunity to reflect on the journey that has brought us to this point. They are a time for gratitude, for looking back on the challenges overcome, the joys shared, and the lessons learned. They offer a chance to strengthen bonds, rekindle romance, and renew commitments.Each anniversary is a unique milestone, a page in the story of our lives, and a testament to our resilience and dedication. It's a time to honor the past, celebrate the present, and anticipate the future with hope and excitement.",
+    "description": "Anniversaries serve as timeless markers in our lives, reminding us of cherished moments, relationships, and achievements. ",
     "price": "$2,500"
   },
   {
-    "id": "engagement101",
+    "id": "engagement",
     "image": "https://i.ibb.co/KjbD9bS/engagement.webp",
     "title": "Chris and Rachel's Engagement Soiree",
-    "description": "1. Relationship Engagement:Engagement in a relationship goes beyond mere presence; it embodies active participation, emotional investment, and mutual commitment. It involves deep listening, genuine understanding, and the willingness to support and uplift each other. Engaged relationships thrive on open communication, empathy, and shared experiences, fostering a sense of belonging and connection between individuals.2. Employee Engagement:In the workplace, employee engagement signifies the level of enthusiasm and dedication employees have towards their jobs and the organization. Engaged employees are passionate about their work, motivated to contribute to the company's goals, and have a strong sense of belonging. Engaging workplaces often provide opportunities for professional growth, recognize achievements, and encourage collaboration, creating a positive and productive environment.",
+    "description": "Relationship Engagement:Engagement in a relationship goes beyond mere presence; it embodies active participation, emotional investment.",
     "price": "$1,000"
   },
   {
-    "id": "retirement202",
+    "id": "retirement",
     "image": "https://i.ibb.co/MhNWGsG/retirement.jpg",
     "title": "Farewell to Robert's Remarkable Career",
-    "description": "Retirement is the culmination of a lifelong journey of hard work, dedication, and careful financial planning. It's the moment when you bid farewell to the daily grind of your career and step into a world of newfound freedom and possibilities. For many, retirement represents the reward for years of commitment to a job, a chance to finally savor the sweet taste of leisure, and an opportunity to explore unfulfilled dreams and passions.This life stage brings with it a mix of emotions. There's excitement as you embark on a new adventure, leaving behind the routine and stresses of the working world. There's nostalgia as you reflect on the memories, challenges, and accomplishments of your career. And there's a sense of liberation as you gain the flexibility to decide how you want to spend your time.",
+    "description": "Retirement is the culmination of a lifelong journey of hard work, dedication, and careful financial planning.",
     "price": "$750"
   },
 
   
 {
-    "id": "babyshower303",
+    "id": "babyshower",
     "image": "https://i.ibb.co/q1MgZKW/baby-shower.webp",
     "title": "Joyful Arrival: Baby Shower for Amy",
-    "description":"A baby shower is a beautiful and tender moment in the life of an expectant mother. It's a time when loved ones come together to celebrate the miracle of new life, as well as the incredible journey that lies ahead for the mom-to-be. This cherished event is filled with laughter, tears of joy, and heartfelt gifts, all dedicated to welcoming the newest member of the family.Decorated with adorable baby-themed decorations, the baby shower venue becomes a haven of warmth and excitement. Guests eagerly anticipate playing games, savoring delicious treats, and, most importantly, showering the expectant mother with love and well-wishes. It's a time when stories of parenthood are shared, advice is lovingly offered, and the support network for the growing family is strengthened.The tradition of a baby shower is a testament to the power of community and the enduring bonds of family and friendship. It's a reminder that, as a new chapter unfolds, there will always be a circle of caring individuals ready to offer their love, guidance, and support. A baby shower is a heartfelt celebration of the miracle of life and the profound joy that a new baby brings into the world.",
+    "description":"A baby shower is a beautiful and tender moment in the life of an expectant mother.",
     "price": "$300"
   }
   

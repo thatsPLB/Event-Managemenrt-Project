@@ -11,16 +11,16 @@ const ServiceCard = ({service}) => {
                     <h2 className="card-title">{title}</h2>
                     
                         {
-                        description.length > 200
-                        ? <p>{description.slice(0,202)} <Link to={`/service/${id}`} 
-                        className="text-blue-900 font=-bold" > Read more...</Link> </p>
-                        :
+                        
                         <p>{description}</p>
-                        }                   
-                   
-                    
-                    <div className="card-actions justify-end">
-                        <button className="btn btn-danger w-full">Price: {price}</button>
+                        }
+                        <div>
+                            <p className="text-2xl">Price: {price}</p>
+                        </div>
+                        <div className="card-actions justify-end">
+                            <Link to={`/service/${id}`}>
+                                <button className="btn btn-danger">See Details</button>
+                            </Link>
                     </div>
                 </div>
             </div>

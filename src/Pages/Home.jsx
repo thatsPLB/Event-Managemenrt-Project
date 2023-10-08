@@ -5,6 +5,7 @@ import Navbar from './Shared/Navbar';
 
 import ServiceCard from './ServiceCard';
 import Banner from '../Banner/Banner';
+import Footer from './Footer/Footer';
 
 
 const Home = () => {
@@ -31,6 +32,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            <Footer></Footer>
         </div>
     );
 };
