@@ -6,6 +6,8 @@ import Navbar from './Shared/Navbar';
 import ServiceCard from './ServiceCard';
 import Banner from '../Banner/Banner';
 import Footer from './Footer/Footer';
+import WhyUs from './WhyUS/WhyUs';
+import Newslatter from './WhyUS/Newslatter';
 
 
 const Home = () => {
@@ -32,6 +34,8 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            <Newslatter></Newslatter>
+            <WhyUs></WhyUs>
             <Footer></Footer>
         </div>
     );
