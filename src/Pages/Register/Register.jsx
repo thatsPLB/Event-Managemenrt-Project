@@ -19,15 +19,19 @@ const Register = () => {
     const name= form.get('name')
     const photo = form.get('photo')
     console.log(name,photo,email,password);
+    var format = /[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]+/;
 
-    if(password.length < 6){
+    if (password.length < 6) {
       setRegisterError("Password should be at least 6 characters or longer");
-      return
-    }
-    else if(!/[A-Z]/.test(password)){
-      setRegisterError("Your password should have at least one upper case characters")
-      return
-
+      return;
+    } else if (!/[A-Z]/.test(password)) {
+      setRegisterError(
+        "Your password should have at least one upper case characters"
+      );
+      return;
+    } else if (!format.test(password)) {
+      setRegisterError("Your password should have at least one special characters");
+      return;
     }
    
 

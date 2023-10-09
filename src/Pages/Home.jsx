@@ -34,8 +34,9 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <Newslatter></Newslatter>
+            
             <WhyUs></WhyUs>
+            <Newslatter></Newslatter>
             <Footer></Footer>
         </div>
     );
